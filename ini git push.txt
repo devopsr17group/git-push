@@ -4,4 +4,4 @@ coba 1
 coba 2
 
 
-coba 3 (pull)
+coba 3 (nge pull)
